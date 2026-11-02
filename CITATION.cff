@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying article."
+title: "Dynamical suppression of extra-dimensional localization in quantum field theory: code"
+type: software
+authors:
+  - family-names: Rahmaniar
+    given-names: Wahyu
+    orcid: "https://orcid.org/0000-0002-6902-5455"
+    affiliation: "Institute of Science Tokyo"
